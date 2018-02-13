@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir":"build",
+        "lib": ["es6"]
+    },
+    "include": [
+        "src/**/*"
+    ],
+}
